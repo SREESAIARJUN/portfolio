@@ -189,7 +189,7 @@ Always reflect Arjun's curiosity, passion for building, and technical depth in y
       )}
       {isOpen && (
         <div className="animate-scale origin-bottom-right shadow-2xl rounded-3xl overflow-hidden w-80 max-w-[90vw] bg-gradient-to-br from-portfolio-purple/90 via-blue-600/90 to-portfolio-dark/90 border border-portfolio-purple/60">
-          <Card className="bg-white/10 backdrop-blur-lg border-0 shadow-none rounded-3xl overflow-hidden relative">
+          <Card className="bg-white/10 backdrop-blur-lg border-0 shadow-none rounded-3xl relative">
             {/* Highlight border gradient animation behind the card */}
             <span className="pointer-events-none absolute inset-0 rounded-3xl bg-gradient-to-r from-portfolio-purple via-blue-600 to-portfolio-dark opacity-50 animate-gradient-x blur-[30px] -z-10"></span>
             <CardHeader className="p-3 border-b border-portfolio-purple/40 flex justify-between items-center backdrop-blur-md bg-portfolio-dark/40 dark:bg-dark/30 shadow-lg rounded-t-3xl select-none">
